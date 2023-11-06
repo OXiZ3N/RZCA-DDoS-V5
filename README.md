@@ -4,6 +4,6 @@
  
     git clone https://github.com/OXiZ3N/RZCA-DDoS-V5.git
     ls
-    cd DDos_Attack.py
+    cd RZCA-DDoS-V5.py
     ls
     python3 rzca.py
